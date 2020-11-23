@@ -1,0 +1,64 @@
+[INFO ] 09-11-2020 11:05:04.070 TC_LoginTest_001 - **************** Starting TC_LoginTest_001 ************* 
+[INFO ] 09-11-2020 11:07:28.601 TC_LoginTest_001 - **************** Starting TC_LoginTest_001 ************* 
+[INFO ] 09-11-2020 11:07:30.154 TC_LoginTest_001 - **************** Providing login details ************* 
+[INFO ] 09-11-2020 11:07:42.787 TC_LoginTest_001 - **************** loginTest is Passed ************* 
+[INFO ] 09-11-2020 11:07:42.789 TC_LoginTest_001 - **************** Finished TC_LoginTest_001 ************* 
+[INFO ] 13-11-2020 05:31:06.300 TC_AddCustomerTest_003 - ********* starting TC_AddCustomerTest_003 *************
+[INFO ] 13-11-2020 05:31:13.314 TC_AddCustomerTest_003 - *********Adding new customer *************
+[INFO ] 13-11-2020 05:31:18.967 TC_AddCustomerTest_003 - ***************  Providing customer details  *********** 
+[INFO ] 13-11-2020 05:31:30.136 TC_AddCustomerTest_003 - ***************  Customer added succesfully *********** 
+[INFO ] 13-11-2020 05:31:30.137 TC_AddCustomerTest_003 - ***************   TC_AddCustomerTest_003 Finished  *********** 
+[INFO ] 17-11-2020 06:08:10.212 TC_LoginTest_001 - **************** Starting TC_LoginTest_001 ************* 
+[INFO ] 17-11-2020 06:08:11.860 TC_LoginTest_001 - **************** Starting TC_LoginTest_001 ************* 
+[INFO ] 17-11-2020 06:08:11.968 TC_LoginTest_001 - **************** Providing login details ************* 
+[INFO ] 17-11-2020 06:08:13.542 TC_LoginTest_001 - **************** Providing login details ************* 
+[WARN ] 17-11-2020 06:08:15.482 TC_LoginTest_001 - **************** loginTest is Failed************* 
+[WARN ] 17-11-2020 06:08:16.306 TC_LoginTest_001 - **************** loginTest is Failed************* 
+[INFO ] 17-11-2020 06:08:22.724 TC_AddCustomerTest_003 - ********* starting TC_AddCustomerTest_003 *************
+[INFO ] 17-11-2020 06:08:29.822 TC_AddCustomerTest_003 - *********Adding new customer *************
+[INFO ] 17-11-2020 06:08:33.461 TC_AddCustomerTest_003 - ***************  Providing customer details  *********** 
+[INFO ] 17-11-2020 06:08:44.774 TC_AddCustomerTest_003 - ***************  Customer added succesfully *********** 
+[INFO ] 17-11-2020 06:08:44.774 TC_AddCustomerTest_003 - ***************   TC_AddCustomerTest_003 Finished  *********** 
+[INFO ] 17-11-2020 06:25:28.591 TC_LoginTest_001 - **************** Starting TC_LoginTest_001 ************* 
+[INFO ] 17-11-2020 06:25:28.598 TC_AddCustomerTest_003 - ********* starting TC_AddCustomerTest_003 *************
+[INFO ] 17-11-2020 06:25:30.621 TC_LoginTest_001 - **************** Providing login details ************* 
+[WARN ] 17-11-2020 06:25:33.900 TC_LoginTest_001 - **************** loginTest is Failed************* 
+[INFO ] 17-11-2020 06:25:36.176 TC_AddCustomerTest_003 - *********Adding new customer *************
+[INFO ] 17-11-2020 06:25:39.968 TC_AddCustomerTest_003 - ***************  Providing customer details  *********** 
+[INFO ] 17-11-2020 06:25:50.792 TC_AddCustomerTest_003 - ***************  Customer added succesfully *********** 
+[INFO ] 17-11-2020 06:25:50.793 TC_AddCustomerTest_003 - ***************   TC_AddCustomerTest_003 Finished  *********** 
+[INFO ] 19-11-2020 03:34:24.050 TC_LoginTest_001 - **************** Starting TC_LoginTest_001 ************* 
+[INFO ] 19-11-2020 03:34:24.231 TC_AddCustomerTest_003 - ********* starting TC_AddCustomerTest_003 *************
+[INFO ] 19-11-2020 03:34:25.629 TC_LoginTest_001 - **************** Providing login details ************* 
+[WARN ] 19-11-2020 03:34:28.554 TC_LoginTest_001 - **************** loginTest is Failed************* 
+[INFO ] 19-11-2020 03:34:32.012 TC_AddCustomerTest_003 - *********Adding new customer *************
+[INFO ] 19-11-2020 03:34:39.509 TC_AddCustomerTest_003 - ***************  Providing customer details  *********** 
+[INFO ] 19-11-2020 03:34:50.724 TC_AddCustomerTest_003 - ***************  Customer added succesfully *********** 
+[INFO ] 19-11-2020 03:34:50.725 TC_AddCustomerTest_003 - ***************   TC_AddCustomerTest_003 Finished  *********** 
+[INFO ] 19-11-2020 03:38:55.208 TC_LoginTest_001 - **************** Starting TC_LoginTest_001 ************* 
+[INFO ] 19-11-2020 03:38:55.208 TC_AddCustomerTest_003 - ********* starting TC_AddCustomerTest_003 *************
+[INFO ] 19-11-2020 03:38:56.808 TC_LoginTest_001 - **************** Providing login details ************* 
+[INFO ] 19-11-2020 03:38:59.773 TC_LoginTest_001 - **************** loginTest is Passed ************* 
+[INFO ] 19-11-2020 03:38:59.775 TC_LoginTest_001 - **************** Finished TC_LoginTest_001 ************* 
+[INFO ] 19-11-2020 03:39:02.403 TC_AddCustomerTest_003 - *********Adding new customer *************
+[INFO ] 19-11-2020 03:39:06.008 TC_AddCustomerTest_003 - ***************  Providing customer details  *********** 
+[INFO ] 19-11-2020 03:39:16.731 TC_AddCustomerTest_003 - ***************  Customer added succesfully *********** 
+[INFO ] 19-11-2020 03:39:16.732 TC_AddCustomerTest_003 - ***************   TC_AddCustomerTest_003 Finished  *********** 
+[INFO ] 19-11-2020 04:33:44.885 TC_AddCustomerTest_003 - ********* starting TC_AddCustomerTest_003 *************
+[INFO ] 19-11-2020 04:33:44.919 TC_LoginTest_001 - **************** Starting TC_LoginTest_001 ************* 
+[INFO ] 19-11-2020 04:33:46.762 TC_LoginTest_001 - **************** Providing login details ************* 
+[INFO ] 19-11-2020 04:33:49.813 TC_LoginTest_001 - **************** loginTest is Passed ************* 
+[INFO ] 19-11-2020 04:33:49.817 TC_LoginTest_001 - **************** Finished TC_LoginTest_001 ************* 
+[INFO ] 19-11-2020 04:33:53.235 TC_AddCustomerTest_003 - *********Adding new customer *************
+[INFO ] 19-11-2020 04:33:57.529 TC_AddCustomerTest_003 - ***************  Providing customer details  *********** 
+[INFO ] 19-11-2020 04:34:08.565 TC_AddCustomerTest_003 - ***************  Customer added succesfully *********** 
+[INFO ] 19-11-2020 04:34:08.566 TC_AddCustomerTest_003 - ***************   TC_AddCustomerTest_003 Finished  *********** 
+[INFO ] 19-11-2020 04:39:01.875 TC_AddCustomerTest_003 - ********* starting TC_AddCustomerTest_003 *************
+[INFO ] 19-11-2020 04:39:01.893 TC_LoginTest_001 - **************** Starting TC_LoginTest_001 ************* 
+[INFO ] 19-11-2020 04:39:03.612 TC_LoginTest_001 - **************** Providing login details ************* 
+[INFO ] 19-11-2020 04:39:05.918 TC_LoginTest_001 - **************** loginTest is Passed ************* 
+[INFO ] 19-11-2020 04:39:05.920 TC_LoginTest_001 - **************** Finished TC_LoginTest_001 ************* 
+[INFO ] 19-11-2020 04:39:08.815 TC_AddCustomerTest_003 - *********Adding new customer *************
+[INFO ] 19-11-2020 04:39:12.667 TC_AddCustomerTest_003 - ***************  Providing customer details  *********** 
+[INFO ] 19-11-2020 04:39:23.357 TC_AddCustomerTest_003 - ***************  Customer added succesfully *********** 
+[INFO ] 19-11-2020 04:39:23.358 TC_AddCustomerTest_003 - ***************   TC_AddCustomerTest_003 Finished  *********** 

@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<!--  in this xml file we can only run in one browser at once -->
+
+<suite thread-count="2" parallel="tests" name="nopCommerce">
+
+<listeners>
+
+  <listener class-name = "com.nopcommerce.utilities.ExtentReport"/>
+  
+</listeners>
+
+  <parameter name="browser" value="chrome"/>
+
+    <!-- <parameter name="browser" value="firefox"/> -->
+
+   <test name="TC_LoginTest_001">
+        <classes>
+        
+           <class name="com.nopcommerce.testCases.TC_LoginTest_001"/>
+          
+          </classes>
+    </test>
+    
+    <!-- <test name="TC_LoginDDT_002">
+        <classes>
+        
+           <class name="com.nopcommerce.testCases.TC_LoginDDT_002"/>
+          
+          </classes>
+    </test> -->
+    
+    <test name="TC_AddCustomerTest_003">
+        <classes>
+        
+           <class name="com.nopcommerce.testCases.TC_AddCustomerTest_003"/>
+          
+          </classes>
+    </test>
+    
+  </suite>
